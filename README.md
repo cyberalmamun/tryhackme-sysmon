@@ -1,16 +1,3 @@
-# TryHackMe: Sysmon
-
-This repository contains my personal notes and screenshots from the **[TryHackMe Sysmon](https://tryhackme.com/room/sysmon)** room.  
-It is for educational purposes only.
-
----
-
-## 📝 Room Description
-Sysmon (System Monitor) is a Windows system service and device driver that logs detailed information about process creation, network connections, and file changes.  
-This TryHackMe room covers:
-- Installation and configuration of Sysmon
-- Understanding important event IDs
-- Using Sysmon logs for threat detection
 
 ---
 
