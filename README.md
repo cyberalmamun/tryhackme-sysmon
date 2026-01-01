@@ -1,7 +1,4 @@
-# TryHackMe: Sysmon
 
-This repository contains my personal notes and screenshots from the **[TryHackMe Sysmon](https://tryhackme.com/room/sysmon)** room.  
-It is for educational purposes only.
 
 ---
 
